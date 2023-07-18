@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Cheater121
 - 👀 I’m interested in Python, Backend and learning.
-- 🌱 I’m currently learning Flask and Django.
+- 🌱 I’m currently learning Flask, Django and FASTApi.
 - 💞️ I’m not looking to collaborate at this moment.
 - 📫 How to reach me: https://t.me/seralvas
 <!---
