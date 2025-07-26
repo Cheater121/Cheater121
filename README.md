@@ -19,7 +19,7 @@ I'm Sergey, an experienced backend developer specializing in Python. I work at [
 
 ### FastAPI Course Author on [Stepik](https://stepik.org/course/179694)
 - Rating: 4.8+ out of 5
-- Over 10,000 students
+- Over 20,000 students
 
 ## 📫 Contact
 - **Telegram:** [seralvas](https://t.me/seralvas)
